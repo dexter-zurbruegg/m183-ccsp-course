@@ -81,6 +81,7 @@ Der Kurs richtet sich an IT-Fachkräfte mit Erfahrung, die ihre Kenntnisse im Be
 
 ## 5. Arbeitsjournal
 
-| Tag | Zeit|  Was habe ich gemacht? | Zusammenfassung |
-| 1.06.2026 |3h (4 Lektionen)| Module 1 Abgeschlossen | Modul 1 umfasst die Grundlagen zu Cybersecurity, insbesondere die regulatorischen und rechtlichen Aspekte. Es stellt mehrere Cybersecurity Frameworks vor und wie sie anzuwenden sind.
-| 08.06.2026 | 3h (4 Lektionen) | Module 2 (50%) | Module 2 geht etwas tiefer in den Aspekt von Security in der Cloud hinein.  
+| Tag | Zeit | Was habe ich gemacht? | Zusammenfassung |
+|---|---|---|---|
+| 01.06.2026 | 3h (4 Lektionen) | Module 1 Abgeschlossen | Modul 1 umfasst die Grundlagen zu Cybersecurity, insbesondere die regulatorischen und rechtlichen Aspekte. Es stellt mehrere Cybersecurity Frameworks vor und wie sie anzuwenden sind. |
+| 08.06.2026 | 3h (4 Lektionen) | Module 2 (50%) | Module 2 geht etwas tiefer in den Aspekt von Security in der Cloud hinein. |
