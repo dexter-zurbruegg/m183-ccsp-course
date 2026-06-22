@@ -85,3 +85,13 @@ Der Kurs richtet sich an IT-Fachkräfte mit Erfahrung, die ihre Kenntnisse im Be
 |---|---|---|---|
 | 01.06.2026 | 3h (4 Lektionen) | Module 1 Abgeschlossen | Modul 1 umfasst die Grundlagen zu Cybersecurity, insbesondere die regulatorischen und rechtlichen Aspekte. Es stellt mehrere Cybersecurity Frameworks vor und wie sie anzuwenden sind. |
 | 08.06.2026 | 3h (4 Lektionen) | Module 2 (50%) | Module 2 geht etwas tiefer in den Aspekt von Security in der Cloud hinein. |
+| 15.06.2026 | 3h (4 lektionen) | Module 2 (100%) & Module 3 (angefangen) | |
+
+
+## 6. Zusammenfassungen Module
+
+### Modul 1 (CCSP: Cybersecurity Basics)
+Modul 1 beinhaltet die wesentliche Cybersecurity Basics wie das CIA-Triad (Confidentiality, Integrity, Availability), IT-Governance, Sicherheitsframeworks wie ISO 27001 und COBIT, das Framework NIST und die Kern-Funktionen (Identify, Protect, Detect, Respond Recover) und die regulatorischen und rechtlichen Anforderungen wie das DSGVO und HIPAA und deren Bedeutungen für Cloud-Environments. Am Ende dieser Abschnitte gab es eine prüfungsähnliche Abfrage, um mein Wissen zu testen und anzuwenden. Ich konnte mit 90% abschliessen.
+
+### Modul 2 (Domain 1: Architecture, concept, design)
+Modul 2 umfasst einiges Mehr als das Vorherige. Anfangs befasst es sich mit den Kernbegriffen wie Customer, Vendor und Partner und wie sie in der Cloud-Umgebung eine Rolle spielen. Dazu umfasst es auch die Grundlagen zu den Cloud-Architekturen und Servicemodelle wie IaaS, PaaS und SaaS. Dazu wird auch schwer die Virtualisierungssicherheit (z.B. Virtual Machines und Hypervisor-Typen) sowie das Shared Responsibility Model behandelt. Gegen den Schluss wird über Threat Modelling gesprochen und um mein Wissen zu testen, habe ich eine Prüfung zu diesem Modul geschrieben.
