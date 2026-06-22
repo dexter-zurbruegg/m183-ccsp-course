@@ -85,7 +85,7 @@ Der Kurs richtet sich an IT-Fachkräfte mit Erfahrung, die ihre Kenntnisse im Be
 |---|---|---|---|---|
 | 01.06.2026 | 3h (4 Lektionen) | Module 1 Abgeschlossen | Modul 1 umfasst die Grundlagen zu Cybersecurity, insbesondere die regulatorischen und rechtlichen Aspekte. Es stellt mehrere Cybersecurity Frameworks vor und wie sie anzuwenden sind. | |
 | 08.06.2026 | 3h (4 Lektionen) | Module 2 (50%) | Module 2 geht etwas tiefer in den Aspekt von Security in der Cloud hinein. | Modul 2 ist um einiges umfangreicher als die folgenden Module, was ich beim Projektbeschrieb nicht miteingezogen hatte. Das erklärt den verschobenen Fortschritt. |
-| 15.06.2026 | 3h (4 Lektionen) | Module 2 (100%) & Module 3 (angefangen) | | |
+| 15.06.2026 | 3h (4 Lektionen) | Module 2 (100%) & Module 3 (~80%) | Modul 3 verschärft sich tiefer in den Aspekt "Cloud Data Security", worin es hauptsächlich um Klassifizierung, Speicher und den Lifecycle ging. | Modul 3 ging um einiges schneller vorbei als das lezte Modul. |
 
 
 ## 6. Zusammenfassungen Module
@@ -95,3 +95,6 @@ Modul 1 beinhaltet die wesentliche Cybersecurity Basics wie das CIA-Triad (Confi
 
 ### Modul 2 (Domain 1: Architecture, concept, design)
 Modul 2 umfasst einiges Mehr als das Vorherige. Anfangs befasst es sich mit den Kernbegriffen wie Customer, Vendor und Partner und wie sie in der Cloud-Umgebung eine Rolle spielen. Dazu umfasst es auch die Grundlagen zu den Cloud-Architekturen und Servicemodelle wie IaaS, PaaS und SaaS. Dazu wird auch schwer die Virtualisierungssicherheit (z.B. Virtual Machines und Hypervisor-Typen) sowie das Shared Responsibility Model behandelt. Gegen den Schluss wird über Threat Modelling gesprochen und um mein Wissen zu testen, habe ich eine Prüfung zu diesem Modul geschrieben.
+
+### Modul 3 (Domain 2: Cloud Data Security)
+Es behandelt den sicheren Umgang mit Daten über den gesamten Lebenszyklus (Create, Store, Use, Share, Archive, Destroy). Schwerpunkte sind Klassifikation und Kategorisierung von Daten, Verschlüsselung (at rest, in transit, in use), Key Management sowie andere Methoden wie Masking, Tokenization und Anonymization.
