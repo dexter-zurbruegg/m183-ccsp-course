@@ -86,8 +86,8 @@ Der Kurs richtet sich an IT-Fachkräfte mit Erfahrung, die ihre Kenntnisse im Be
 | 01.06.2026 | 3h (4 Lektionen) | Module 1 Abgeschlossen | Modul 1 umfasst die Grundlagen zu Cybersecurity, insbesondere die regulatorischen und rechtlichen Aspekte. Es stellt mehrere Cybersecurity Frameworks vor und wie sie anzuwenden sind. | |
 | 08.06.2026 | 3h (4 Lektionen) | Module 2 (50%) | Module 2 geht etwas tiefer in den Aspekt von Security in der Cloud hinein. | Modul 2 ist um einiges umfangreicher als die folgenden Module, was ich beim Projektbeschrieb nicht miteingezogen hatte. Das erklärt den verschobenen Fortschritt. |
 | 15.06.2026 | 3h (4 Lektionen) | Module 2 (100%) & Module 3 (~80%) | Modul 3 verschärft sich tiefer in den Aspekt "Cloud Data Security", worin es hauptsächlich um Klassifizierung, Speicher und den Lifecycle ging. | Modul 3 ging um einiges schneller vorbei als das lezte Modul. |
-| 22.06.2026 | 3h (Lektionen) | Module 3 (100%) & Module 4 (100%) | Modul 3 abgeschlossen. Im 4. Modul geht vertieft es sich in die Sicherheit von der Cloud-Infrastruktur und Plattform selbst. | |
-
+| 22.06.2026 | 3h 4 (Lektionen) | Module 3 (100%) & Module 4 (100%) | Modul 3 abgeschlossen. Im 4. Modul geht vertieft es sich in die Sicherheit von der Cloud-Infrastruktur und Plattform selbst. | |
+| 29.06.2026 | 3h 4 (Lektionen) | Module 5 (100%), Module 6 (100%), Module 7 (100%) | Modul 5 behandelt Applikationssicherheit und die Lifecycles von Applikationen. Modul 6 behandelt Cloud Security Operations, was heisst, wie man die Infrastruktur im Alltag sicher betreibt. Schliesslich behandelt Modul 7 die rechtlichen Risiken und wie man mit Gesetzen und Vorschriften in der Cloud-Umgebung umgeht. | Diese Module gingen vergleichsweise zu den ersten drei sehr schnell. Bei der Planung ist das mir leider nicht aufgefallen, was ich mir für das nächste Mal notieren werde. |
 
 ## 6. Zusammenfassungen Module
 
@@ -102,3 +102,15 @@ Es behandelt den sicheren Umgang mit Daten über den gesamten Lebenszyklus (Crea
 
 ### Modul 4 (Domain 3: Cloud Platform and Infrastructure Security)
 Hier geht es um die technische Seite der Cloud: Wie speichert man Daten sicher, welche Risiken gibt es bei Cloud-Plattformen, und wer genau dafür zuständig ist. Ausserdem lernt man, wie man sich auf Notfälle vorbereitet, also wie ein Unternehmen nach einem Ausfall oder Problem schnell wieder arbeiten kann (Disaster Recovery und Business Continuity).
+
+### Modul 5 (Domain 4: Cloud Application Security )
+Dieses Modul zeigt, wie man Software sicher für die Cloud entwickelt. Im Zentrum steht der Software-Entwicklungs-Lebenszyklus (SDLC) mit Themen wie Code-Reviews, Sicherheitstests (SAST/DAST), Mandanten-Trennung sowie Verschlüsselung und Sandboxing.
+
+### Modul 6 (Domain 5: Cloud Security Operations )
+Cloud-Sicherheitsbetrieb dreht sich um den sicheren Alltagsbetrieb einer Cloud-Infrastruktur. Behandelt werden notwendige Sicherheitskontrollen, bewährte Praktiken für Monitoring und Audits sowie die Risikobewertung physischer und virtueller Cloud-Umgebungen.
+
+### Modul 7 (Domain 6: Rechtliche Risiken & Compliance) 
+Hier befasst es sich mit dem Umgang mit Gesetzen und Vorschriften in der Cloud. Themen sind Audit-Prozesse, Nachweispflichten (Assurance) sowie wichtige Aspekte von Compliance-Berichten wie SOC-Reports. 
+
+## 07. Reflexion
+Zusammengefasst habe ich in diesem Kurs bereits Vieles gewusst durch meine Vertiefung in Cybersecurity bei meinem Arbeitgeber aber auch sehr viel Neues, vorallem im rechtlichem Bereich, dazugelernt. Was ich für das nächste Mal mitnehmen werde, ist die Planung, die ich besser hätte mit dem Kurs koordiniert hätte sollen. Die ersten zwei bis drei Module sind um ein grosses Stück grösser als die folgenden Module, was ich leider bei der Planung nicht miteingeplant hatte. Trotzdem konnte ich zeitgerecht mit dem Kurs fertig werden und fühle mich bereit, die Prüfung abzuschliessen.
